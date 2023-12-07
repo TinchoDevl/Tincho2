@@ -30,7 +30,7 @@ footer{
     /* height: 100vh; */
     
     padding: 26px 0 0 0;
-    background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)), url(/assets/space-2543838_1280.jpg);
+    background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)), url(../assets/space-2543838_1280.jpg);
     background-position: center;
     background-size: cover;
     /* border: 3px solid #000; */
